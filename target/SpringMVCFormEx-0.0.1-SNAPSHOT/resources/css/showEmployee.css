@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+
+.cssTable
+{
+border="1" ;
+cellpadding="10pc"; 
+cellspacing="10px";
+align="center";
+style="font-size:30px;
+text-align:center";
+}
